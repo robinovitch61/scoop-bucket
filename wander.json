@@ -1,26 +1,26 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/robinovitch61/wander/releases/download/v1.0.1/wander_1.0.1_Windows_i386.zip",
+            "url": "https://github.com/robinovitch61/wander/releases/download/v1.0.2/wander_1.0.2_Windows_i386.zip",
             "bin": [
                 "wander.exe"
             ],
-            "hash": "8f098dbb420331bcd8d6a166fab8fd0111c2c33b54143d142c1a73de9de5c649"
+            "hash": "7c3f1256c90c7e9a30ca60b1e666436398cc36f61f719ee1493378cde349f4d0"
         },
         "64bit": {
-            "url": "https://github.com/robinovitch61/wander/releases/download/v1.0.1/wander_1.0.1_Windows_x86_64.zip",
+            "url": "https://github.com/robinovitch61/wander/releases/download/v1.0.2/wander_1.0.2_Windows_x86_64.zip",
             "bin": [
                 "wander.exe"
             ],
-            "hash": "8500d5042c292c93b59115f8acea2ba5632d880012012bd906c7e76f43ee2368"
+            "hash": "ea53aeb023082b838f841aa02461e38885c1af7d9b19d3e6af1fd7cfc433b36e"
         },
         "arm64": {
-            "url": "https://github.com/robinovitch61/wander/releases/download/v1.0.1/wander_1.0.1_Windows_arm64.zip",
+            "url": "https://github.com/robinovitch61/wander/releases/download/v1.0.2/wander_1.0.2_Windows_arm64.zip",
             "bin": [
                 "wander.exe"
             ],
-            "hash": "6f87b0d1f5f053c0550768626931ac2f8b3a57a65bddfa826737d5f75f51eecc"
+            "hash": "a4b8027a3793c1d1f48d3a937fbc5078e7318a062a0f291878201f88761187d5"
         }
     },
     "homepage": "https://github.com/robinovitch61/wander",
