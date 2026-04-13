@@ -1,26 +1,26 @@
 {
-    "version": "0.8.0",
+    "version": "0.9.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/robinovitch61/kl/releases/download/v0.8.0/kl_0.8.0_Windows_i386.zip",
+            "url": "https://github.com/robinovitch61/kl/releases/download/v0.9.0/kl_0.9.0_Windows_i386.zip",
             "bin": [
                 "kl.exe"
             ],
-            "hash": "2d69915e79a91c37f27f802b3a02f986d88a742ce59a40823564e03222335a23"
+            "hash": "696580009be568e50a7706c5d335dd81ca06f7d0c94bea8fa24425d669ec712a"
         },
         "64bit": {
-            "url": "https://github.com/robinovitch61/kl/releases/download/v0.8.0/kl_0.8.0_Windows_x86_64.zip",
+            "url": "https://github.com/robinovitch61/kl/releases/download/v0.9.0/kl_0.9.0_Windows_x86_64.zip",
             "bin": [
                 "kl.exe"
             ],
-            "hash": "782dee759cc5e939aa9980f2afb3bf13dd2b13496c60cb756704c8bdec717100"
+            "hash": "2015d53fc0478a237babf5da1e2df2e36fb93c8afd80b450841c078c0dc4e467"
         },
         "arm64": {
-            "url": "https://github.com/robinovitch61/kl/releases/download/v0.8.0/kl_0.8.0_Windows_arm64.zip",
+            "url": "https://github.com/robinovitch61/kl/releases/download/v0.9.0/kl_0.9.0_Windows_arm64.zip",
             "bin": [
                 "kl.exe"
             ],
-            "hash": "7777d586c4d4535eff7ad309efc95c4106a5fc651cc198a7c79cdebe5cd0fea6"
+            "hash": "155b685b7f80c48fbc2f64ca1195b3ff75503d513bb48d4ceba73be3bdd062af"
         }
     },
     "homepage": "https://github.com/robinovitch61/kl",
