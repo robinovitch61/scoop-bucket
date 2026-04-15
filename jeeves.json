@@ -6,21 +6,21 @@
             "bin": [
                 "jeeves.exe"
             ],
-            "hash": "a7f530c5d78005cb5aba9e8ecce089b01615df6263f3be1e9783294c742f52b5"
+            "hash": "cf4d8b298336a293cf66edbacda4a11d92dccdc28506c470b49d9c0cf493df24"
         },
         "64bit": {
             "url": "https://github.com/robinovitch61/jeeves/releases/download/v0.2.0/jeeves_0.2.0_Windows_x86_64.zip",
             "bin": [
                 "jeeves.exe"
             ],
-            "hash": "9033b26adca1239daa214aa55289e4e54c673d2652e9bd582254d325ad65f1b4"
+            "hash": "68d0fe512c19354bc6958cad91a987563e29d3f3ebd801fd315d131076902be0"
         },
         "arm64": {
             "url": "https://github.com/robinovitch61/jeeves/releases/download/v0.2.0/jeeves_0.2.0_Windows_arm64.zip",
             "bin": [
                 "jeeves.exe"
             ],
-            "hash": "44085f145318a2f0bd792c62f610cbb71f204ed231958b9640fe146aa71e4d32"
+            "hash": "091ec025625eb440d8bfcf8c047be1da328238b9ad11741a3b4a859dcfe64be6"
         }
     },
     "homepage": "https://github.com/robinovitch61/jeeves",
